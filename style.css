@@ -60,3 +60,14 @@ p{
     height: 40%;
     border-radius: 5px;
 }
+.left-side-border{
+    background-image: url("image/exp-bg.png");
+}
+#left-side-border{
+    border-left: 7px solid;
+    border-color: orangered;
+}
+#right-side-border{
+    border-left: 7px solid;
+    border-color: blue;
+}
