@@ -59,6 +59,7 @@ p{
     box-shadow: 10px 10px 40px gray;
     height: 40%;
     border-radius: 5px;
+    background-color: white;
 }
 .expriences-area{
     background-image: url("image/exp-bg.png");
