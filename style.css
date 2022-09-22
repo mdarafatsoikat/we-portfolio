@@ -14,12 +14,15 @@ h1{
 .left-side{
     width: 40%;
     float: left;
-    padding-left: 50px;
+    padding: 4%;
+    margin-left: 1%;
 }
 .right-side{
     float: left;
     width: 40%;
-    padding: 50px;
+    padding: 4%;
+    margin-left: 1%;
+    
 }
 .right-side img{
     width: 100%;
@@ -51,4 +54,9 @@ p{
     background-image: url("image/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experiences{
+    box-shadow: 10px 10px 40px gray;
+    height: 40%;
+    border-radius: 5px;
 }
